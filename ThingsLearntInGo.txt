@@ -1,12 +1,35 @@
-1) Main function is must
+1)Main function is must
   func mainn-  function main is undeclared in the main package
 
-2) Case sensitive
+2)Case sensitive
     func main is not same as func Main
     Println is not same as printLn
 
-3) No need for semi colon after every statement
+3)No need for semi colon after every statement
    fmt.Println("Hello, Dileep ", name)
    var name = "Chakravarthi"
 
-4)
+4)Indentation is not required
+
+5)Static declaration of variables
+  Once a variable declared in int can't be changed to string.
+  fmt.Println(d)
+  d=10
+  fmt.Println(d)
+  will give the following error
+  cannot use 10 (untyped int constant) as bool value in assignment
+
+6) := short hand for declaring and initializing a variable.
+   var b, c int = 1, 2
+
+7) Go datatypes also have size, when it overflows
+  Error: cannot use 9223372036854775808 (untyped int constant) as int64 value in variable declaration (overflows)
+  If we add 1 to the limit value at runtime, it will wraparound to 0
+
+  For More information=https://github.com/DoSendToDileep/Go-Language-Program/blob/809c9608df58ce5e4a4e33d8a935ca82e9ce1cae/GeekForGeeks/VariableDeclaration.go
+
+8) There are datatypes to handle imaginary parts of the numbers
+
+9) Raw string literals are character sequences between back quotes, often called back ticks.
+   Within the quotes, any character will appear just as it is displayed between the back quotes,
+   except for the back quote character itself.

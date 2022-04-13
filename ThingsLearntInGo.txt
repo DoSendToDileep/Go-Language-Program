@@ -29,9 +29,11 @@
   For More information=https://github.com/DoSendToDileep/Go-Language-Program/blob/809c9608df58ce5e4a4e33d8a935ca82e9ce1cae/GeekForGeeks/VariableDeclaration.go
 
 8) There are datatypes to handle imaginary parts of the numbers
+  (complex64)
 
 9) Raw string literals are character sequences between back quotes, often called back ticks.
    Within the quotes, any character will appear just as it is displayed between the back quotes,
    except for the back quote character itself.
 
 10) 25 Keywords in go (interesting one's to check chan, struct, defer)
+https://github.com/DoSendToDileep/Go-Language-Program/blob/main/GeekForGeeks/VariableDeclaration.go

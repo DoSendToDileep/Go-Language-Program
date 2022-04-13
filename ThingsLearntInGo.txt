@@ -33,3 +33,5 @@
 9) Raw string literals are character sequences between back quotes, often called back ticks.
    Within the quotes, any character will appear just as it is displayed between the back quotes,
    except for the back quote character itself.
+
+10) 25 Keywords in go (interesting one's to check chan, struct, defer)

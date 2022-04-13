@@ -1,0 +1,12 @@
+1) Main function is must
+  func mainn-  function main is undeclared in the main package
+
+2) Case sensitive
+    func main is not same as func Main
+    Println is not same as printLn
+
+3) No need for semi colon after every statement
+   fmt.Println("Hello, Dileep ", name)
+   var name = "Chakravarthi"
+
+4)

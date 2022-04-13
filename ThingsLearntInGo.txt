@@ -35,5 +35,8 @@
    Within the quotes, any character will appear just as it is displayed between the back quotes,
    except for the back quote character itself.
 
-10) 25 Keywords in go (interesting one's to check chan, struct, defer)
+10) 25 Keywords in go (interesting one's to check chan, struct, defer, fallthrough)
 https://github.com/DoSendToDileep/Go-Language-Program/blob/main/GeekForGeeks/VariableDeclaration.go
+
+11) %T is used to print the datatype of variables
+    %f for float

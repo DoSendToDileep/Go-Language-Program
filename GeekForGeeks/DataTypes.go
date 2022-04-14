@@ -36,6 +36,10 @@ fmt.Println(bb)
 // Display the type
 fmt.Printf("The type of a is %T and "+
          "the type of b is %T", aa, bb)
+
+       // Multiple variables of different types
+       // are declared and initialized in the single line
+       var myvariable1, myvariable2, myvariable3 = 2, "GFG", 67.56
 }
 
 /*

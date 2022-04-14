@@ -40,3 +40,5 @@ https://github.com/DoSendToDileep/Go-Language-Program/blob/main/GeekForGeeks/Var
 
 11) %T is used to print the datatype of variables
     %f for float
+
+12) If you use type, then you are allowed to declare multiple variables of the same type in the single declaration.

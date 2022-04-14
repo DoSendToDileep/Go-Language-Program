@@ -42,3 +42,9 @@ https://github.com/DoSendToDileep/Go-Language-Program/blob/main/GeekForGeeks/Var
     %f for float
 
 12) If you use type, then you are allowed to declare multiple variables of the same type in the single declaration.
+
+13) shadowing occurs when a variable declared within a certain scope such as
+    decision block, method, or inner class has the same name as a variable declared in an outer scope.
+    Inner variable value takes precedence over outer variable.
+
+ 14)

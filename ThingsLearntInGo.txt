@@ -47,4 +47,8 @@ https://github.com/DoSendToDileep/Go-Language-Program/blob/main/GeekForGeeks/Var
     decision block, method, or inner class has the same name as a variable declared in an outer scope.
     Inner variable value takes precedence over outer variable.
 
- 14)
+14) Implicit conversion gives you Error
+
+15) Go compiler gives you error when variables declared are not used.
+
+16) For converting int to string we will have to use a string conversion package

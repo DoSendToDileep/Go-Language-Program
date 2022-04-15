@@ -54,3 +54,5 @@ https://github.com/DoSendToDileep/Go-Language-Program/blob/main/GeekForGeeks/Var
 16) For converting int to string we will have to use a string conversion package
 
 17) Constants are named constants for a reason.
+
+18) <-:The name of this operator is receive. It is used to receive a value from the channel.
